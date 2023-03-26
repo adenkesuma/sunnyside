@@ -330,25 +330,13 @@ body {
 
 /* ////////// SECTION-TESTIMONIALS ///////// */
 .section-testimonials {
-    /* background-color: var(--White); */
+    background-color: var(--White);
     padding: 6rem 8rem;
 }
 
-.section-testimonials button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 1rem auto;
-    background-color: var(--Very-dark-grayish-blue);
-    color: var(--White);
-    padding: .5rem;
-    border-radius: .5rem;
-    border: none;
-}
-
 .section-testimonials h2 {
+    color: #1a1a1a;
     font-size: 1.6rem;
-    color: var(--White);
     text-transform: uppercase;
     letter-spacing: .5rem;
     text-align: center;
@@ -373,7 +361,7 @@ body {
     font-family: sans-serif;
     font-size: 1rem;
     font-weight: 500;
-    color: var(--White);
+    color: #1a1a1a;
     line-height: 1.6rem;
 }
 
